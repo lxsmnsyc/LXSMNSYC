@@ -4,5 +4,5 @@
 </a>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lxsmnsyc&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lxsmnsyc&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxsmnsyc&layout=compact)
