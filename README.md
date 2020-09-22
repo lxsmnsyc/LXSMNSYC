@@ -6,7 +6,8 @@
 ## Hi! 👋
 
 - My name is Alexis H. Munsayac! 😁
-- I am currently the Vice President of Software Engineering, Research and Development for Lyon Software Technologies, Inc. 🧐
+- I am currently the Vice President of Software Engineering, Research and Development for @LyonInc 🧐
+- I am also a Community Administrator for @ProgrammersDevelopers and Philippine I.T. Security Forums 👨‍⚖️
 - I mainly do open-source projects and design software architectures for our startup! 👨‍💻
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lxsmnsyc&show_icons=true&count_private=true)
